@@ -1,4 +1,9 @@
-## Hi there 👋
+👋
+
+Actualmente:
+-Aprendiendo FastAPI a partir del tutorial oficial: https://fastapi.tiangolo.com/tutorial.
+-Realizando el curso CS50 de Python.
+
 
 <!--
 **Castronimus/Castronimus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
