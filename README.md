@@ -1,8 +1,8 @@
 👋
 
 Actualmente:
--Aprendiendo FastAPI a partir del tutorial oficial: https://fastapi.tiangolo.com/tutorial.
--Realizando el curso CS50 de Python.
+Aprendiendo FastAPI a partir del tutorial oficial y realizando el curso CS50 de Python.
+
 
 
 <!--
