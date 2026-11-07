@@ -1,7 +1,4 @@
-👋
-
-Actualmente:
-Aprendiendo FastAPI a partir del tutorial oficial y realizando el curso CS50 de Python.
+Aprendiendo Web Scraping.
 
 
 
